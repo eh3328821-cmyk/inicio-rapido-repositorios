@@ -1,10 +1,10 @@
-Inicio rápido para repositorios
+  # “INICIO RAPIDO PARA UN REPOSITORIO”
+ 
 
-¿Qué es GitHub?
+  ## INTRODUCCIÓN:
+*PLATAFORMA QUÉ PERMITE GUARDAR PROYECTOS, ORGANIZAR ARCHIVOS Y REGISTRAR LOS CAMBIOS REALIZADOS*
 
-Es una plataforma que permite guardar proyectos, archivos y registrar los cambios realizados.
-
-1. Creación de un repositorio
+  ## CREACIÓN DE UN REPOSITORIO
 
 1. Entrar a GitHub.
 2. Presionar el botón (+).
@@ -15,7 +15,7 @@ Es una plataforma que permite guardar proyectos, archivos y registrar los cambio
 7. Activar la opción README.
 8. Crear el repositorio.
 
-2. Primer cambio
+  ## REALIZAR EL PRIMER CAMBIO 
 
 1. Abrir el archivo README.md.
 2. Presionar el lápiz para editar.
@@ -25,11 +25,11 @@ Es una plataforma que permite guardar proyectos, archivos y registrar los cambio
 6. Escribir un mensaje: “Mi primer cambio”.
 7. Guardar la modificación.
 
-3. Confirmaciones (Commit)
+  ## (Commit) ¿Que es?
 
-Son registros que guardan los cambios realizados en los archivos del proyecto.
+ *REGUISTROS QUE GUARDAN LOS CAMBIOS REALIZADOS EN LOS ARCHIVOS DEL PROYECTO*
 
-4. Pasos siguientes
+  ## PASOS SIGUIENTE=
 
 * Agregar archivos.
 * Modificar el proyecto.
@@ -37,6 +37,6 @@ Son registros que guardan los cambios realizados en los archivos del proyecto.
 * Invitar colaboradores.
 * Proteger el repositorio.
 
-Conclusión
+  ## EN CONCLUCIÓN:
 
-GitHub facilita la creación, organización y actualización de proyectos mediante repositorios.
+# GitHub facilita la creación, organización y actualización de proyectos mediante repositorios.
